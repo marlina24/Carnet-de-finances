@@ -1,4 +1,4 @@
-# Personal Financial Tracker using Java
+# iTrack: Personal Financial Tracker using Java
 
 ## Members
 - Jhon Lloyd Omblero
