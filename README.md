@@ -9,7 +9,7 @@
 ## Description/Overview
 The **iTrack** is a desktop application designed to help users manage and track their expenses and income. It allows users to categorize their expenses, set budgets, and generate financial reports. The application leverages Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, and polymorphism to ensure a modular and maintainable codebase.
 
-## Features
+## iTrack Features
 - **Expense and Income Management**: Add, edit, and delete transactions.
 - **Categorization**: Categorize expenses and income for better tracking.
 - **Budgeting**: Set and manage budgets.
