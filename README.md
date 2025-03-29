@@ -20,7 +20,8 @@
 ## 🛠️ Technologies Utilisées
 
 - **Java** : Langage principal utilisé pour le développement de l'application.
-- **Swing** : Framework GUI pour la construction de l'interface utilisateur.
+- **Swing** : Framewor![Capture d’écran 2025-03-25 à 02 46 43](https://github.com/user-attachments/assets/99e83b1b-30cb-438c-ae9f-9d8dd82b3408)
+k GUI pour la construction de l'interface utilisateur.
 - **Apache POI** : Bibliothèque utilisée pour la lecture et l'écriture de fichiers Excel.
 
 ---
